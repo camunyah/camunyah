@@ -1,19 +1,20 @@
 # 👋 Hello, I'm Chuck A. Munyah-Asaah
 
 ## Enterprise Data & AI Solutions Professional
+Helping organizations transform complex healthcare, operational, and enterprise data into actionable intelligence through analytics, artificial intelligence, and business intelligence.
 
 🎓 M.S. Business and Data Analytics | California State University, San Bernardino  
 📍 Loma Linda, California, USA
 
 ---
 
-## About Me
+## Executive Profile
 
 I am an Enterprise Data & AI Solutions Professional passionate about transforming complex healthcare, operational, and enterprise data into actionable intelligence that improves organizational performance and supports evidence-based decision-making.
 
 My professional journey combines decades of experience in Enterprise Information Systems, Healthcare Information Systems, National Health Information Systems, Business Intelligence, and Executive Reporting with advanced graduate education in Data Analytics, Machine Learning, Artificial Intelligence, and Decision Intelligence.
 
-I enjoy building analytical solutions that solve real business problems through data.
+My passion is building intelligent, data-driven solutions that improve organizational performance, support strategic decision-making, and create measurable business value.
 
 ---
 
