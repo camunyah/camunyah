@@ -64,10 +64,32 @@ Projects currently under development include:
 
 ---
 
+## Technologies
+
+Python
+SQL
+R
+Tableau
+Power BI
+PostgreSQL
+MySQL
+MongoDB
+AWS
+SAP
+Git
+
+---
+
 ## Professional Philosophy
 
 > "Transforming Data into Intelligence.
 > Transforming Intelligence into Better Decisions."
+
+---
+
+## Career Vision
+
+I aspire to become an internationally recognized Enterprise Data & AI Solutions Leader dedicated to transforming complex data into intelligent solutions that improve lives, strengthen organizations, and shape the future of decision-making. Through TAKE, my vision is to build a globally respected Enterprise AI ecosystem that advances analytics, artificial intelligence, research, consulting, education, and digital innovation while empowering organizations to solve meaningful challenges through data-driven intelligence.
 
 ---
 
@@ -79,4 +101,4 @@ https://www.linkedin.com/in/chuck-munyah-asaah-4379b563/
 
 ---
 
-Thank you for visiting my GitHub profile.
+Thank you for visiting my GitHub profile. I look forward to sharing additional analytics, machine learning, business intelligence, and healthcare data science projects as my professional portfolio continues to grow.
