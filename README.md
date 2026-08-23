@@ -50,33 +50,32 @@ Current areas of focus include:
 
 ---
 
-## Professional Projects
+## Featured Professional Projects
 
-Projects currently under development include:
+🚀 AI-Driven Demand Forecasting & Inventory Optimization
+(Flagship Project)
 
-- 📈 Demand Forecasting Using Python & Machine Learning
-- 📦 Inventory Optimization
-- 🚚 Transportation Optimization
-- 🏥 Healthcare Analytics Dashboard
-- 📊 Business Intelligence Dashboard
-- 🤖 Machine Learning Model Evaluation
-- 🗄 SQL Analytics Portfolio
+🏥 Healthcare Analytics Dashboard
+
+📊 Business Intelligence Dashboard
+
+🤖 Machine Learning Model Evaluation
+
+📦 Inventory Optimization
+
+🚚 Transportation Optimization
+
+🗄 SQL Analytics Portfolio
 
 ---
 
 ## Technologies
 
-Python
-SQL
-R
-Tableau
-Power BI
-PostgreSQL
-MySQL
-MongoDB
-AWS
-SAP
-Git
+🐍 Python • 🗄 SQL • 📊 Tableau • 📈 Power BI
+
+☁ AWS • 🏢 SAP S/4HANA • 🐘 PostgreSQL
+
+🍃 MongoDB • 🔷 MySQL • 🔧 Git • 📘 R
 
 ---
 
@@ -93,7 +92,7 @@ I aspire to become an internationally recognized Enterprise Data & AI Solutions 
 
 ---
 
-## Professional Profile
+## Connect With Me
 
 💼 LinkedIn
 
