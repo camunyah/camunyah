@@ -4,7 +4,7 @@
 
 ### Official Reference Implementation
 
-### Reference Standard Version 1.0
+### 📄 Reference Standard Version 1.0
 
 ### Enterprise AI • Decision Intelligence • Executive Decision Support
 
@@ -230,7 +230,7 @@ This implementation demonstrates the complete CareerOS Enterprise Decision Engin
 
 *Demonstrating the CareerOS Enterprise Decision Engineering Framework through Enterprise AI, Demand Forecasting, Inventory Optimization, and Executive Decision Support.*
 
-🔗 **[View Repository](https://github.com/camunyah/ai-demand-forecasting-inventory-optimization)**
+🔗 **[📂 View Repository](https://github.com/camunyah/ai-demand-forecasting-inventory-optimization)**
 
 ---
 
