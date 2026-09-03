@@ -249,23 +249,26 @@ Together these engineering disciplines transform enterprise data into explainabl
 
 <p align="center">
 
-<img src="images/framework/figure_03_enterprise_decision_engineering_lifecycle.png" width="1100">
-
+<img src="images/framework/figure_03_enterprise_decision_engineering_lifecycle.png"
+     alt="Enterprise Decision Engineering Lifecycle"
+     width="1100">
 </p>
 
 ---
 
 ## Enterprise Engineering Methodology
 
-CEDEF is built upon a standardized enterprise engineering methodology that governs the development of every capability within the framework.
+CEDEF is governed by a standardized engineering methodology that applies consistently across every Engineering Package within the framework.
 
-Rather than developing analytics solutions through isolated experimentation, every Engineering Package follows the same disciplined engineering lifecycle.
+Rather than developing enterprise analytics through isolated experimentation, CEDEF adopts a disciplined engineering lifecycle that governs how enterprise capabilities are designed, implemented, verified, documented, assessed, and certified.
 
-This standardized methodology ensures that every enterprise capability is engineered consistently, verified systematically, documented comprehensively, and certified before becoming part of the enterprise intelligence ecosystem.
+This engineering discipline ensures that every capability contributes to a coherent, repeatable, and enterprise-ready decision intelligence ecosystem.
 
-### Standard Engineering Lifecycle
+---
 
-Every Engineering Package progresses through the following engineering stages:
+## Standard Engineering Lifecycle
+
+Every Engineering Package progresses through the following enterprise engineering stages:
 
 1. Engineering Inputs
 2. Engineering Design
@@ -277,18 +280,44 @@ Every Engineering Package progresses through the following engineering stages:
 8. Executive Assessment
 9. Engineering Package Certification
 
-This disciplined lifecycle enables Enterprise AI capabilities to be developed with the same rigor traditionally associated with mature engineering disciplines.
+Each stage contributes to the progressive development of governed enterprise capabilities while maintaining engineering consistency and organizational traceability.
 
-### Engineering Outcomes
+---
 
-By applying a standardized engineering methodology throughout the framework, CEDEF establishes:
+## Engineering Philosophy
+
+The CareerOS Enterprise Decision Engineering Framework applies engineering principles traditionally associated with mature disciplines such as civil, mechanical, and software engineering to the development of enterprise intelligence.
+
+Every capability is engineered deliberately.
+
+Every output is verified systematically.
+
+Every enterprise asset is certified before becoming the engineering foundation for subsequent intelligence layers.
+
+This philosophy transforms enterprise analytics from isolated technical activities into a governed organizational engineering discipline.
+
+---
+
+## Engineering Outcomes
+
+By applying a standardized enterprise engineering lifecycle, CEDEF establishes:
 
 - Governed Enterprise Assets
 - Executive Decision Support
-- Enterprise Knowledge
+- Organizational Knowledge
+- Enterprise Traceability
+- Explainable Intelligence
 - Continuous Organizational Improvement
 
-The result is an enterprise engineering methodology that is repeatable, explainable, auditable, and enterprise ready.
+These outcomes collectively enable Enterprise AI systems that are repeatable, auditable, explainable, and enterprise ready.
+
+---
+
+## Why This Matters
+
+The Enterprise Decision Engineering Lifecycle ensures that every capability developed within CEDEF follows the same disciplined engineering process.
+
+This consistency enables organizations to scale enterprise intelligence while maintaining governance, quality, executive confidence, and long-term organizational sustainability.
 
 ---
 
