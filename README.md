@@ -168,7 +168,9 @@ To advance Enterprise Decision Engineering through research, consulting, enterpr
 
 <p align="center">
 
-<img src="images/framework/figure_02_progressive_enterprise_asset_engineering.png" width="1100">
+<img src="images/framework/figure_02_progressive_enterprise_asset_engineering.png"
+     alt="Progressive Enterprise Asset Engineering Model"
+     width="1100">
 
 </p>
 
