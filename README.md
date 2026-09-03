@@ -222,15 +222,15 @@ This implementation demonstrates the complete CareerOS Enterprise Decision Engin
 - 🧠 Decision Intelligence
 - 👔 Executive Decision Support
 
-> Repository
+> ### Repository
 
 ➡️ **Official Retail Reference Implementation**
 
-**AI-Driven Demand Forecasting & Inventory Optimization**
+### AI-Driven Demand Forecasting & Inventory Optimization
 
 *Demonstrating the CareerOS Enterprise Decision Engineering Framework through Enterprise AI, Demand Forecasting, Inventory Optimization, and Executive Decision Support.*
 
-🔗 **View Repository**
+🔗 **[View Repository](https://github.com/camunyah/ai-demand-forecasting-inventory-optimization)**
 
 ---
 
