@@ -49,6 +49,7 @@ Transforming Enterprise Data into Explainable Executive Decision Intelligence
 | 🧠 [Professional Capabilities](#professional-capabilities) | Enterprise capabilities and technology ecosystem |
 | 🔬 [Research, Innovation & Future Direction](#research-innovation--future-direction) | Research agenda and CareerOS roadmap |
 | 🤝 [Connect](#connect) | Professional profiles and contact information |
+| 📂 [Retail Reference Implementation](https://github.com/camunyah/ai-demand-forecasting-inventory-optimization) | Official CEDEF Retail Reference Implementation |
 
 ---
 # Executive Summary
@@ -217,15 +218,11 @@ This implementation demonstrates the complete CareerOS Enterprise Decision Engin
 
 ### Enterprise Capabilities
 
-- ![Enterprise AI](https://img.shields.io/badge/Enterprise%20AI-blue)
-
-- ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-green)
-
-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
-
-- ![Decision Intelligence](https://img.shields.io/badge/Decision%20Intelligence-purple)
-
-- ![Executive Decision Support](https://img.shields.io/badge/Executive%20Decision%20Support-red)
+![Enterprise AI](https://img.shields.io/badge/Enterprise%20AI-0B3C6F?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0E8A8A?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0066CC?style=for-the-badge)
+![Decision Intelligence](https://img.shields.io/badge/Decision%20Intelligence-6C63FF?style=for-the-badge)
+![Executive Decision Support](https://img.shields.io/badge/Executive%20Decision%20Support-0B3C6F?style=for-the-badge)
 
 ### Business Outcomes
 
