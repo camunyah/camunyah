@@ -1,6 +1,6 @@
 <p align="center">
 
-# CareerOS Enterprise Decision Engineering Framework
+# CareerOS Enterprise Decision Engineering Framework (CEDEF)
 
 ### Official Reference Implementation
 
@@ -14,23 +14,13 @@
 
 <p align="center">
 
-**Designed and Engineered by**
-
-# Chuck A. Munyah-Asaah
+## Chuck A. Munyah-Asaah
 
 ### Enterprise Data & AI Solutions Professional
 
-Transforming Enterprise Data into Explainable Executive Decision Intelligence
+**Architect & Creator of the CareerOS Enterprise Decision Engineering Framework**
 
-</p>
-
----
-
-# Enterprise Framework Overview
-
-<p align="center">
-
-<img src="images/framework/figure_01_framework_architecture.png" width="1100">
+*Designing governed Enterprise AI systems that transform enterprise data into explainable executive decision intelligence.*
 
 </p>
 
@@ -41,15 +31,27 @@ Transforming Enterprise Data into Explainable Executive Decision Intelligence
 | Section | Description |
 |----------|-------------|
 | 🚀 [Executive Summary](#executive-summary) | Overview of the CareerOS Enterprise Decision Engineering Framework (CEDEF) |
+| 🏗 [Enterprise Framework Overview](#enterprise-framework-overview) | Figure 1 – Framework Architecture |
 | 🏛 [Meet the Architect](#meet-the-architect) | Professional background and framework creator |
-| 🏗 [Framework Overview](#enterprise-framework-overview) | Figure 1 – CareerOS Enterprise Decision Engineering Framework |
 | 💡 [CareerOS Innovation](#careeros-innovation) | Figure 2 – Progressive Enterprise Asset Engineering Model |
 | ⚙️ [Enterprise Engineering Methodology](#enterprise-engineering-methodology) | Figure 3 – Enterprise Decision Engineering Lifecycle |
 | 🏪 [Reference Implementations](#reference-implementations) | Current and future CEDEF implementations |
 | 🧠 [Professional Capabilities](#professional-capabilities) | Enterprise capabilities and technology ecosystem |
-| 🔬 [Research, Innovation & Future Direction](#research-innovation--future-direction) | Research agenda and CareerOS roadmap |
+| 🔬 [Research, Innovation & Future Direction](#research-innovation--future-direction) | Research agenda and CEDEF roadmap |
 | 🤝 [Connect](#connect) | Professional profiles and contact information |
-| 📂 [Retail Reference Implementation](https://github.com/camunyah/ai-demand-forecasting-inventory-optimization) | Official CEDEF Retail Reference Implementation |
+| 📂 **[Official Retail Reference Implementation](https://github.com/camunyah/ai-demand-forecasting-inventory-optimization)** | AI-Driven Demand Forecasting & Inventory Optimization |
+
+---
+
+# Enterprise Framework Overview
+
+<p align="center">
+
+<img src="images/framework/figure_01_framework_architecture.png"
+     alt="CareerOS Enterprise Decision Engineering Framework"
+     width="1100">
+
+</p>
 
 ---
 
@@ -57,11 +59,11 @@ Transforming Enterprise Data into Explainable Executive Decision Intelligence
 
 The **CareerOS Enterprise Decision Engineering Framework (CEDEF)** is a governed enterprise engineering methodology for transforming enterprise data into explainable, auditable, and actionable executive decision intelligence.
 
-Unlike traditional analytics methodologies that conclude with dashboards or predictive models, the framework integrates six enterprise intelligence layers into a unified engineering lifecycle that progresses from Enterprise Data Engineering through Executive Decision Engineering.
+Unlike traditional analytics methodologies that conclude with dashboards, reports, or predictive models, CEDEF integrates six enterprise intelligence layers into a unified engineering lifecycle that progresses systematically from **Enterprise Data Engineering** through **Executive Decision Engineering**.
 
-The framework introduces **Progressive Enterprise Asset Engineering**, a disciplined methodology in which every engineering layer produces a certified enterprise asset that becomes the engineering foundation for the next enterprise intelligence layer.
+At the core of the framework is **Progressive Enterprise Asset Engineering**, a disciplined methodology in which every engineering layer produces a **Certified Enterprise Asset** that becomes the engineering foundation for the next enterprise intelligence layer. This creates a governed, traceable, explainable, and progressively maturing enterprise intelligence lifecycle.
 
-The official retail reference implementation demonstrates the framework through an end-to-end Enterprise AI solution integrating:
+The **Official Retail Reference Implementation** demonstrates CEDEF through an end-to-end Enterprise AI solution integrating:
 
 - 📈 Demand Forecasting
 - 📦 Inventory Optimization
@@ -70,7 +72,13 @@ The official retail reference implementation demonstrates the framework through 
 - 🧠 Decision Intelligence
 - 👔 Executive Decision Support
 
-The framework establishes a repeatable, governed, and enterprise-ready approach for designing intelligent decision systems capable of supporting operational excellence, executive governance, and strategic organizational transformation.
+Together, these capabilities establish a repeatable, governed, and enterprise-ready methodology for designing intelligent decision systems that support operational excellence, executive governance, and strategic organizational transformation.
+
+---
+
+> **Explore the Official Retail Reference Implementation**
+
+➡️ **[AI-Driven Demand Forecasting & Inventory Optimization](https://github.com/camunyah/ai-demand-forecasting-inventory-optimization)**
 
 ---
 
