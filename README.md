@@ -26,8 +26,6 @@ Transforming Enterprise Data into Explainable Executive Decision Intelligence
 
 ---
 
----
-
 # Enterprise Framework Overview
 
 <p align="center">
@@ -35,6 +33,22 @@ Transforming Enterprise Data into Explainable Executive Decision Intelligence
 <img src="images/framework/figure_01_framework_architecture.png" width="1100">
 
 </p>
+
+---
+
+# 🧭 Quick Navigation
+
+| Section | Description |
+|----------|-------------|
+| 🚀 [Executive Summary](#executive-summary) | Overview of the CareerOS Enterprise Decision Engineering Framework (CEDEF) |
+| 🏛 [Meet the Architect](#meet-the-architect) | Professional background and framework creator |
+| 🏗 [Framework Overview](#enterprise-framework-overview) | Figure 1 – CareerOS Enterprise Decision Engineering Framework |
+| 💡 [CareerOS Innovation](#careeros-innovation) | Figure 2 – Progressive Enterprise Asset Engineering Model |
+| ⚙️ [Enterprise Engineering Methodology](#enterprise-engineering-methodology) | Figure 3 – Enterprise Decision Engineering Lifecycle |
+| 🏪 [Reference Implementations](#reference-implementations) | Current and future CEDEF implementations |
+| 🧠 [Professional Capabilities](#professional-capabilities) | Enterprise capabilities and technology ecosystem |
+| 🔬 [Research, Innovation & Future Direction](#research-innovation--future-direction) | Research agenda and CareerOS roadmap |
+| 🤝 [Connect](#connect) | Professional profiles and contact information |
 
 ---
 # Executive Summary
