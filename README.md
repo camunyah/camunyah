@@ -119,21 +119,48 @@ The remainder of this profile introduces the architecture, innovation, engineeri
 
 # Meet the Architect
 
-I am **Chuck A. Munyah-Asaah**, an **Enterprise Data & AI Solutions Professional** with a multidisciplinary background spanning Enterprise Information Systems, Healthcare Information Systems, National Health Information Systems, Business Intelligence, Data Analytics, Artificial Intelligence, and Executive Decision Support.
+The CareerOS Enterprise Decision Engineering Framework (CEDEF) represents the convergence of my professional experience, academic training, and long-term vision for enterprise artificial intelligence.
 
-Over the course of my career, I have worked at the intersection of technology, healthcare, business operations, and organizational transformation, helping organizations leverage information systems and analytics to improve operational performance and decision-making.
+For more than two decades, I have worked at the intersection of Enterprise Information Systems, Healthcare Information Systems, National Health Information Systems, Business Intelligence, Executive Reporting, and Organizational Decision Support.
 
-My academic foundation includes a **Master of Science in Business and Data Analytics** from **California State University, San Bernardino**, where I strengthened my expertise in statistics, machine learning, predictive analytics, artificial intelligence, and enterprise business intelligence.
+Throughout this journey, I repeatedly observed a common organizational challenge:
 
-CDEF represents the convergence of my professional experience and academic training. It was developed to address a fundamental challenge observed across many organizations:
+> **Organizations possess enormous volumes of data, yet often struggle to transform that data into governed executive decision intelligence.**
 
-> **Organizations often possess abundant data, yet struggle to systematically transform that data into governed executive decision intelligence.**
+This observation became the motivation for developing CEDEF.
 
-Rather than viewing analytics, business intelligence, machine learning, and executive reporting as isolated disciplines, I believe they should operate as an integrated enterprise engineering lifecycle.
+Rather than viewing data engineering, business intelligence, artificial intelligence, predictive analytics, and executive reporting as isolated technical disciplines, I believe they should function as an integrated enterprise engineering lifecycle.
 
-That philosophy led to the development of the CEDEF—a governed methodology that progressively transforms enterprise data into certified enterprise assets and ultimately into explainable, auditable, and actionable executive decision intelligence.
+That philosophy ultimately led to the creation of the **CareerOS Enterprise Decision Engineering Framework (CEDEF)**—a governed methodology that progressively transforms enterprise data into certified enterprise assets and ultimately into explainable, auditable, and actionable executive decision intelligence.
 
-My long-term vision is to advance enterprise decision engineering through research, consulting, education, and enterprise software development, enabling organizations to make better decisions through disciplined engineering rather than isolated analytical techniques.
+---
+
+## Academic Foundation
+
+🎓 **Master of Science (M.S.) in Business and Data Analytics**
+
+California State University, San Bernardino
+
+---
+
+## Professional Focus
+
+My work focuses on the design and implementation of enterprise-scale solutions spanning:
+
+- Enterprise Data Engineering
+- Enterprise Artificial Intelligence
+- Business Intelligence
+- Decision Intelligence
+- Executive Decision Support
+- Healthcare Analytics
+- Enterprise Information Systems
+- Organizational Intelligence
+
+---
+
+## Professional Mission
+
+To advance Enterprise Decision Engineering through research, consulting, enterprise software development, education, and intelligent decision systems that help organizations transform data into trusted executive intelligence.
 
 ---
 
