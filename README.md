@@ -387,94 +387,30 @@ Each implementation will extend the framework while remaining fully aligned with
 
 ---
 
-# Future Reference Implementations
-
-The CareerOS Enterprise Decision Engineering Framework is designed as a cross-industry enterprise methodology.
-
-Future reference implementations include:
-
-### 🏥 Healthcare Decision Intelligence
-
-Clinical Analytics
-
-Population Health
-
-Predictive Healthcare
-
-Clinical Decision Support
-
-Executive Healthcare Intelligence
-
----
-
-### 🏦 Banking Decision Intelligence
-
-Risk Analytics
-
-Fraud Detection
-
-Customer Intelligence
-
-Executive Banking Dashboards
-
----
-
-### 🏭 Manufacturing Decision Intelligence
-
-Production Intelligence
-
-Demand Planning
-
-Supply Chain Optimization
-
-Predictive Maintenance
-
----
-
-### 🏛 Government Decision Intelligence
-
-Policy Analytics
-
-Public Sector Performance
-
-Executive Government Dashboards
-
----
-
-### 🎓 Higher Education Decision Intelligence
-
-Student Success Analytics
-
-Institutional Intelligence
-
-Academic Performance
-
-Executive Education Dashboards
-
----
-
----
-
 # Professional Capabilities
 
-My work focuses on designing and implementing enterprise-scale data, analytics, artificial intelligence, and decision intelligence solutions that transform organizational data into strategic business value.
+My professional work combines enterprise architecture, analytics, artificial intelligence, healthcare information systems, and executive decision support into integrated enterprise solutions that improve organizational performance and decision-making.
 
-The CareerOS Enterprise Decision Engineering Framework is supported by multidisciplinary capabilities spanning enterprise architecture, analytics, artificial intelligence, healthcare information systems, business intelligence, executive reporting, and organizational decision support.
+The following capabilities represent the core professional competencies that underpin both the CareerOS Enterprise Decision Engineering Framework (CEDEF) and my enterprise consulting approach.
 
 ---
 
 ## Enterprise Data & Analytics
 
+Designing trusted enterprise data foundations that enable governed analytics and organizational intelligence.
+
 - Enterprise Data Engineering
 - Data Analytics
-- Data Management
-- SQL Development
-- Data Quality
+- Data Quality Management
 - Statistical Analysis
+- SQL Development
+- Data Modeling
 
 ---
 
-## Artificial Intelligence & Machine Learning
+## Enterprise Artificial Intelligence
+
+Engineering intelligent enterprise solutions that transform organizational data into predictive and decision-support capabilities.
 
 - Enterprise AI
 - Machine Learning
@@ -485,29 +421,35 @@ The CareerOS Enterprise Decision Engineering Framework is supported by multidisc
 
 ---
 
-## Business Intelligence
+## Business Intelligence & Decision Support
+
+Delivering executive insight through governed business intelligence and decision intelligence methodologies.
 
 - Business Intelligence Engineering
-- Dashboard Development
 - Executive Reporting
 - KPI Design
+- Dashboard Development
 - Decision Intelligence
 - Executive Decision Support
 
 ---
 
-## Healthcare Analytics
+## Healthcare Analytics & Information Systems
+
+Applying enterprise analytics to improve healthcare operations, clinical decision-making, and public health information systems.
 
 - Healthcare Information Systems
 - Clinical Analytics
 - Population Health Analytics
-- Health Information Exchange
 - Public Health Informatics
+- Health Information Exchange
 - Healthcare Decision Support
 
 ---
 
-## Enterprise Systems
+## Enterprise Systems & Digital Transformation
+
+Supporting enterprise modernization through intelligent information systems and organizational transformation.
 
 - Enterprise Information Systems
 - SAP Enterprise Solutions
@@ -518,29 +460,27 @@ The CareerOS Enterprise Decision Engineering Framework is supported by multidisc
 
 ---
 
-## Technical Ecosystem
+## Technology Ecosystem
 
-**Programming**
+### Programming Languages
 
 Python • SQL • R
 
-**Analytics**
+### Analytics & Machine Learning
 
-Pandas • NumPy • Scikit-learn • XGBoost • TensorFlow
+Pandas • NumPy • Scikit-learn • TensorFlow • XGBoost • Statsmodels
 
-**Business Intelligence**
+### Business Intelligence
 
 Power BI • Tableau
 
-**Databases**
+### Databases
 
 PostgreSQL • MySQL • MongoDB
 
-**Cloud & Enterprise Platforms**
+### Enterprise Platforms
 
 AWS • SAP S/4HANA • Git
-
----
 
 ---
 
