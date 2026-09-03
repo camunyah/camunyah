@@ -52,6 +52,7 @@ Transforming Enterprise Data into Explainable Executive Decision Intelligence
 | 📂 [Retail Reference Implementation](https://github.com/camunyah/ai-demand-forecasting-inventory-optimization) | Official CEDEF Retail Reference Implementation |
 
 ---
+
 # Executive Summary
 
 The **CareerOS Enterprise Decision Engineering Framework (CEDEF)** is a governed enterprise engineering methodology for transforming enterprise data into explainable, auditable, and actionable executive decision intelligence.
