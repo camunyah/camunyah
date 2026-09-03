@@ -486,62 +486,56 @@ AWS • SAP S/4HANA • Git
 
 # Research, Innovation & Future Direction
 
-My long-term mission extends beyond developing analytical solutions.
+The CareerOS Enterprise Decision Engineering Framework (CEDEF) represents the beginning of a broader research and innovation initiative focused on advancing Enterprise AI through disciplined engineering methodologies.
 
-I am committed to advancing the discipline of **Enterprise Decision Engineering** through research, enterprise software development, executive consulting, higher education, and artificial intelligence innovation.
-
-The CareerOS Enterprise Decision Engineering Framework represents the foundation of this long-term vision.
-
-It establishes a governed enterprise methodology that integrates data engineering, business intelligence, enterprise artificial intelligence, predictive intelligence, decision intelligence, and executive decision engineering into a unified enterprise decision lifecycle.
+My long-term vision is to bridge enterprise architecture, artificial intelligence, analytics, healthcare information systems, executive decision support, and organizational transformation into a unified engineering discipline capable of supporting modern intelligent enterprises.
 
 ---
 
 ## CareerOS
 
-CareerOS is an enterprise engineering initiative dedicated to advancing decision intelligence through disciplined engineering methodologies, enterprise AI, analytics, education, research, and consulting.
+CareerOS is an enterprise engineering initiative dedicated to advancing Enterprise Decision Engineering through research, education, enterprise software, consulting, and intelligent decision systems.
 
-Its long-term vision is to establish enterprise engineering standards that enable organizations to transform data into trusted executive decision intelligence.
+Its mission is to develop practical engineering methodologies that enable organizations to transform enterprise data into governed, explainable, and actionable executive decision intelligence.
 
 ---
 
 ## TAKE
 
-TAKE is the innovation ecosystem through which I intend to translate research into practical enterprise solutions.
+TAKE is the innovation ecosystem through which these ideas will be translated into enterprise platforms, intelligent software solutions, consulting services, and educational programs.
 
-Its mission is to design and develop intelligent platforms supporting:
+Future initiatives include:
 
-- Enterprise Artificial Intelligence
+- Enterprise AI Platforms
 - Healthcare Decision Intelligence
-- Business Intelligence
-- Executive Analytics
-- Decision Support Systems
-- Intelligent Automation
-- Digital Transformation
+- Intelligent Decision Support Systems
+- Enterprise Analytics Solutions
+- Executive Intelligence Dashboards
+- Digital Transformation Platforms
+- AI-Enabled Enterprise Software
 
 ---
 
 ## Current Research Interests
 
-My current research focuses on:
+My current research focuses on the advancement of:
 
 - Enterprise Decision Engineering
 - Enterprise Artificial Intelligence
-- Healthcare Analytics
 - Decision Intelligence
+- Healthcare Analytics
 - Explainable Artificial Intelligence (XAI)
 - Executive Decision Support
 - Enterprise Architecture
 - Organizational Intelligence
 - Digital Transformation
-- Intelligent Decision Systems
+- Intelligent Enterprise Systems
 
 ---
 
 ## Future Framework Roadmap
 
-The CareerOS Enterprise Decision Engineering Framework will continue to evolve through future Reference Standards.
-
-Planned areas of research and development include:
+Future releases of CEDEF will expand the framework through additional enterprise capabilities, including:
 
 - Multi-objective Optimization
 - Reinforcement Learning
@@ -549,46 +543,40 @@ Planned areas of research and development include:
 - Digital Twins
 - Enterprise MLOps
 - Agentic AI
-- Large Language Models (LLMs)
-- Industry-specific Reference Implementations
 - Enterprise Knowledge Graphs
+- Large Language Models (LLMs)
 - Intelligent Executive Assistants
+- Industry-specific Reference Implementations
 
 ---
 
 ## Professional Vision
 
-My aspiration is to become an internationally recognized Enterprise Data & AI Solutions Leader whose work bridges research, enterprise engineering, artificial intelligence, healthcare analytics, and executive decision support.
+My aspiration is to become an internationally recognized Enterprise Data & AI Solutions Leader whose work advances enterprise engineering, artificial intelligence, healthcare analytics, decision intelligence, research, consulting, education, and organizational transformation.
 
-Through CareerOS and TAKE, I seek to contribute practical engineering methodologies and intelligent enterprise platforms that help organizations make better decisions, improve operational performance, and create sustainable organizational value.
-
----
+Through CareerOS and TAKE, I aim to develop enterprise methodologies and intelligent platforms that help organizations make better decisions, strengthen governance, improve operational performance, and create sustainable enterprise value.
 
 ---
 
 # Connect
 
-I welcome opportunities to collaborate on enterprise data engineering, business intelligence, enterprise AI, healthcare analytics, decision intelligence, research, consulting, and executive technology leadership.
+Thank you for visiting my GitHub profile.
+
+I welcome opportunities to collaborate on Enterprise AI, Business Intelligence, Healthcare Analytics, Decision Intelligence, Enterprise Architecture, Research, Consulting, and Executive Technology Leadership.
 
 ## Professional Profiles
 
-- 💼 LinkedIn  
-  https://www.linkedin.com/in/chuck-munyah-asaah-4379b563/
+💼 **LinkedIn**
 
-- 💻 GitHub  
-  https://github.com/camunyah
+https://www.linkedin.com/in/chuck-munyah-asaah-4379b563/
 
----
+💻 **GitHub**
 
-> **CareerOS Enterprise Decision Engineering Framework**
-
-**Official Reference Implementation**
-
-**Reference Standard Version 1.0**
+https://github.com/camunyah
 
 ---
 
-### CareerOS Enterprise Decision Engineering Philosophy
+## CareerOS Enterprise Decision Engineering Philosophy
 
 > **From Data to Decisions.**
 
@@ -597,5 +585,13 @@ I welcome opportunities to collaborate on enterprise data engineering, business 
 > **From Engineering to Enterprise Value.**
 
 > **From Innovation to Organizational Transformation.**
+
+---
+
+### CareerOS Enterprise Decision Engineering Framework
+
+**Official Reference Implementation**
+
+**Reference Standard Version 1.0**
 >
 > 
