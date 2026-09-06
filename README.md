@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="images/design-components/CDC-001-premium-executive-identity-banner.png" width="100%">
+<img src="images/design-components/CDC-001-premium_executive_identity_banner.png" width="100%">
 
 <br>
 
@@ -194,7 +194,7 @@ Together they establish a governed body of knowledge for transforming enterprise
 
 <div align="center">
 
-<img src="images/design-components/CDC-005-careeros-ecosystem-journey.png" width="95%">
+<img src="images/design-components/CDC-005-careeros_ecosystem_journey.png" width="95%">
 
 <br>
 
