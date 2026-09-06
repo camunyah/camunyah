@@ -208,11 +208,19 @@ Together they establish a governed body of knowledge for transforming enterprise
 
 ## Explore the CareerOS Ecosystem
 
+CareerOS is an integrated enterprise engineering ecosystem designed to advance **Enterprise Decision Engineering** through frameworks, publications, reference implementations, research, consulting, education, and professional standards.
+
+Each repository serves a distinct purpose while contributing to a unified body of knowledge.
+
+---
+
 ### 📘 Framework Portal
 
-The official home of the **CareerOS Enterprise Decision Engineering Framework (CEDEF)**.
+The official home of the **CareerOS Enterprise Decision Engineering Framework (CEDEF).**
 
-Explore the philosophy, architecture, engineering methodology, Signature Visuals, Preview Edition, and future Reference Standards.
+Explore the framework's philosophy, enterprise architecture, Signature Visuals, Preview Edition, and the continuing development of Enterprise Decision Engineering.
+
+➡️ https://github.com/camunyah/careeros-enterprise-decision-engineering-framework
 
 ---
 
@@ -220,108 +228,64 @@ Explore the philosophy, architecture, engineering methodology, Signature Visuals
 
 Experience Enterprise Decision Engineering through practical enterprise implementations.
 
-The first official implementation demonstrates AI-driven demand forecasting and inventory optimization while showcasing the complete CareerOS engineering methodology.
+The official retail implementation demonstrates how enterprise data is transformed into demand forecasting, inventory optimization, decision intelligence, and executive decision support.
+
+➡️ https://github.com/camunyah/ai-demand-forecasting-inventory-optimization
 
 ---
 
 ### 📄 CareerOS Publications
 
-Explore executive publications that communicate the philosophy, architecture, research, and evolution of Enterprise Decision Engineering.
+Explore the official publications supporting the CareerOS Enterprise Decision Engineering Framework.
 
 Publication families include:
 
-- Preview Editions (PE)
 - Executive White Papers (WP)
+- Preview Editions (PE)
 - Reference Standards (RS)
+- Future Executive Guides
+- Research Publications
+
+The inaugural executive white paper is now available.
+
+**Featured Publication**
+
+📘 **WP-001 — Enterprise Decision Engineering**
+
+*Why Enterprise Intelligence Needs an Engineering Discipline*
+
+➡️ https://github.com/camunyah/careeros-publications
 
 ---
 
 ### 🎓 Executive Education
 
-Future CareerOS educational initiatives will provide structured learning pathways, certification programs, executive workshops, and professional development designed to prepare enterprise leaders for the next generation of decision engineering.
+CareerOS Executive Education is being developed to prepare enterprise leaders, architects, analysts, engineers, and researchers to apply Enterprise Decision Engineering within real-world organizations.
+
+Future offerings include:
+
+- Executive Workshops
+- Professional Certification
+- Enterprise Training Programs
+- University Teaching Resources
 
 ---
 
 ### 🤝 Enterprise Consulting
 
-CareerOS consulting services are being developed to help organizations design, govern, and implement enterprise intelligence systems that improve executive decision-making and accelerate organizational transformation.
-
-# Professional Vision
-
-My long-term vision is to help establish **Enterprise Decision Engineering** as a globally recognized enterprise engineering discipline that transforms how organizations design, govern, and apply enterprise intelligence.
-
-Through **CareerOS** and **TAKE**, I am building an integrated ecosystem of enterprise methodologies, intelligent software, executive publications, professional consulting, research initiatives, executive education, and industry reference implementations that strengthen organizational decision-making across the public and private sectors.
-
-My objective extends beyond developing technology.
-
-It is to help organizations create lasting enterprise value through governed intelligence, disciplined engineering, and trustworthy executive decisions.
-
-I believe the future belongs to organizations that engineer intelligence with the same discipline that previous generations applied to software, systems, and enterprise architecture.
-
-That future begins with better decisions.
+CareerOS Consulting applies Enterprise Decision Engineering to help organizations design, govern, and implement trustworthy enterprise intelligence systems that improve executive decision-making and accelerate organizational transformation.
 
 ---
 
-# Let's Connect
+## CareerOS Ecosystem
 
-I welcome opportunities to collaborate with organizations, universities, research institutions, consulting firms, government agencies, and industry leaders who share an interest in Enterprise AI, Decision Intelligence, Enterprise Architecture, Healthcare Analytics, Business Intelligence, and Organizational Transformation.
-
-Whether you are interested in research, executive consulting, strategic partnerships, speaking engagements, or collaborative innovation, I would be pleased to connect.
-
-<div align="center">
-
-## Professional Profiles
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/chuck-munyah-asaah-4379b563/
-
-<br>
-
-💻 **GitHub**
-
-https://github.com/camunyah
-
-</div>
-
----
-
-# Explore the CareerOS Ecosystem
-
-Continue exploring the CareerOS ecosystem through its official repositories.
+Together, the CareerOS repositories provide a complete enterprise engineering journey.
 
 | Repository | Purpose |
 |------------|---------|
-| 🏠 **Executive Portal** | Professional profile, executive vision, and CareerOS leadership |
-| 📘 **Framework Portal** | CareerOS Enterprise Decision Engineering Framework (CEDEF) |
-| 🛍 **Reference Implementation Portal** | AI-Driven Demand Forecasting & Inventory Optimization |
+| 🏠 **Executive Portal** | Meet the architect and explore the CareerOS vision |
+| 📘 **Framework Portal** | Understand the Enterprise Decision Engineering Framework |
+| 🛍 **Reference Implementation Portal** | Experience Enterprise Decision Engineering in practice |
+| 📄 **CareerOS Publications** | Executive White Papers, Preview Editions, and Reference Standards |
 
-As the CareerOS ecosystem continues to grow, additional repositories will introduce new reference implementations, enterprise engineering standards, executive publications, intelligent software, and educational resources.
-
----
-
-<div align="center">
-
-# CareerOS Enterprise Decision Engineering Philosophy
-
-> **From Data to Decisions.**
-
-> **From Intelligence to Impact.**
-
-> **From Engineering to Enterprise Value.**
-
-> **From Innovation to Organizational Transformation.**
-
-<br>
-
----
-
-### CareerOS™
-
-### Enterprise Decision Engineering Framework (CEDEF)
-
-**Official Executive Portal**
-
-**Version 2.0**
-
-</div>
+As the CareerOS ecosystem continues to evolve, additional repositories, publications, reference implementations, intelligent software, educational resources, and research initiatives will continue expanding the discipline of Enterprise Decision Engineering.
