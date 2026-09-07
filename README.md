@@ -16,7 +16,7 @@
 
 **CareerOS Executive Portal**
 
-Executive Headquarters
+Executive Office
 
 Enterprise AI • Decision Intelligence • Executive Leadership • Enterprise Engineering
 
