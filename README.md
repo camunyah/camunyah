@@ -210,7 +210,7 @@ Together they establish a governed body of knowledge for transforming enterprise
 
 CareerOS is an integrated enterprise engineering ecosystem designed to advance **Enterprise Decision Engineering** through frameworks, publications, reference implementations, research, consulting, education, and professional standards.
 
-Each repository serves a distinct purpose while contributing to a unified body of knowledge.
+Each repository serves a distinct purpose while contributing to a unified body of professional knowledge.
 
 ---
 
@@ -218,9 +218,9 @@ Each repository serves a distinct purpose while contributing to a unified body o
 
 The official home of the **CareerOS Enterprise Decision Engineering Framework (CEDEF).**
 
-Explore the framework's philosophy, enterprise architecture, Signature Visuals, Preview Edition, and the continuing development of Enterprise Decision Engineering.
+Explore the framework's philosophy, enterprise architecture, Signature Visuals, the Preview Edition (PE-001), and the continuing development of Enterprise Decision Engineering.
 
-➡️ https://github.com/camunyah/careeros-enterprise-decision-engineering-framework
+➡️ **[CareerOS Enterprise Decision Engineering Framework](https://github.com/camunyah/careeros-enterprise-decision-engineering-framework)**
 
 ---
 
@@ -230,31 +230,26 @@ Experience Enterprise Decision Engineering through practical enterprise implemen
 
 The official retail implementation demonstrates how enterprise data is transformed into demand forecasting, inventory optimization, decision intelligence, and executive decision support.
 
-➡️ https://github.com/camunyah/ai-demand-forecasting-inventory-optimization
+➡️ **[AI-Driven Demand Forecasting & Inventory Optimization](https://github.com/camunyah/ai-demand-forecasting-inventory-optimization)**
 
 ---
 
 ### 📄 CareerOS Publications
 
-Explore the official publications supporting the CareerOS Enterprise Decision Engineering Framework.
+Explore the official publication repository supporting the CareerOS Enterprise Decision Engineering Framework.
 
-Publication families include:
+Current publications include:
+
+- ✅ **WP-001 — Enterprise Decision Engineering**
+  *Why Enterprise Intelligence Needs an Engineering Discipline*
+
+Future publication families include:
 
 - Executive White Papers (WP)
-- Preview Editions (PE)
-- Reference Standards (RS)
-- Future Executive Guides
+- Executive Guides
 - Research Publications
 
-The inaugural executive white paper is now available.
-
-**Featured Publication**
-
-📘 **WP-001 — Enterprise Decision Engineering**
-
-*Why Enterprise Intelligence Needs an Engineering Discipline*
-
-➡️ https://github.com/camunyah/careeros-publications
+➡️ **[CareerOS Publications](https://github.com/camunyah/careeros-publications)**
 
 ---
 
@@ -279,13 +274,13 @@ CareerOS Consulting applies Enterprise Decision Engineering to help organization
 
 ## CareerOS Ecosystem
 
-Together, the CareerOS repositories provide a complete enterprise engineering journey.
+Together, the CareerOS repositories establish the official CareerOS Enterprise Decision Engineering ecosystem.
 
 | Repository | Purpose |
 |------------|---------|
 | 🏠 **Executive Portal** | Meet the architect and explore the CareerOS vision |
 | 📘 **Framework Portal** | Understand the Enterprise Decision Engineering Framework |
-| 🛍 **Reference Implementation Portal** | Experience Enterprise Decision Engineering in practice |
-| 📄 **CareerOS Publications** | Executive White Papers, Preview Editions, and Reference Standards |
+| 🛍 **Reference Implementation Portal** | Experience Enterprise Decision Engineering through practical enterprise implementations |
+| 📄 **CareerOS Publications** | Executive White Papers and executive thought leadership |
 
-As the CareerOS ecosystem continues to evolve, additional repositories, publications, reference implementations, intelligent software, educational resources, and research initiatives will continue expanding the discipline of Enterprise Decision Engineering.
+As the CareerOS ecosystem continues to evolve, additional publications, reference implementations, intelligent software, educational resources, research initiatives, and enterprise consulting services will continue advancing the discipline of Enterprise Decision Engineering.
