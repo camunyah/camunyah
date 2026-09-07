@@ -16,7 +16,7 @@
 
 **CareerOS Executive Portal**
 
-Official Professional Homepage
+Official Executive Portal
 
 Enterprise AI • Decision Intelligence • Executive Leadership • Enterprise Engineering
 
