@@ -363,8 +363,6 @@ Thank you for your interest in CareerOS.
 
 I look forward to building the future of Enterprise Decision Engineering together.
 
----
-
 _____________________________________
 
 CareerOS Publications
