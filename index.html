@@ -27,11 +27,10 @@
 </section>
 <script>
 const poster=document.getElementById('poster'),videoWindow=document.getElementById('videoWindow'),backdrop=document.getElementById('backdrop'),video=document.getElementById('video'),videoFallback=document.getElementById('videoFallback'),maximizeBtn=document.getElementById('maximizeBtn'),minimizeBtn=document.getElementById('minimizeBtn'),closeBtn=document.getElementById('closeBtn');
-const videoURL='https://www.youtube-nocookie.com/embed/QhY7f6Y8LxE?autoplay=1&mute=1&rel=0';
+const videoURL='https://www.youtube-nocookie.com/embed/QhY7f6Y8LxE?autoplay=1&controls=1&rel=0';
 function openVideo(startMinimized=false){videoWindow.classList.add('open');backdrop.classList.add('open');if(location.protocol==='file:'){video.style.display='none';videoFallback.style.display='block';}else{videoFallback.style.display='none';video.style.display='block';video.src=videoURL;}if(startMinimized){videoWindow.style.width='280px';videoWindow.style.height='190px';}}
 function closeVideo(){videoWindow.classList.remove('open','maximized');backdrop.classList.remove('open');video.src='';video.style.display='block';videoFallback.style.display='none';videoWindow.style.width='';videoWindow.style.height='';}
-poster.addEventListener('click',()=>{if(!videoWindow.classList.contains('open'))openVideo(false);});backdrop.addEventListener('click',closeVideo);closeBtn.addEventListener('click',closeVideo);maximizeBtn.addEventListener('click',()=>{videoWindow.classList.toggle('maximized');videoWindow.style.width='';videoWindow.style.height='';});minimizeBtn.addEventListener('click',()=>{videoWindow.classList.remove('maximized');videoWindow.style.width='280px';videoWindow.style.height='190px';});
-window.addEventListener('load',()=>{setTimeout(()=>openVideo(true),500);});
+poster.addEventListener('click',()=>{openVideo(true);});backdrop.addEventListener('click',closeVideo);closeBtn.addEventListener('click',closeVideo);maximizeBtn.addEventListener('click',()=>{videoWindow.classList.toggle('maximized');videoWindow.style.width='';videoWindow.style.height='';});minimizeBtn.addEventListener('click',()=>{videoWindow.classList.remove('maximized');videoWindow.style.width='280px';videoWindow.style.height='190px';});
 </script>
 </body>
 </html>
